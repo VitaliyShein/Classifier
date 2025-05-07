@@ -4,5 +4,5 @@
 3) Moves files to 1 of 3 folders (resume, scientific articles and email)
 
 # Instruction
-Your files shold be in a folder named "InputData"
-You should also change your directory straight in the code
+1) Your files shold be in a folder named "InputData"
+2) You should also change your directory straight in the code
